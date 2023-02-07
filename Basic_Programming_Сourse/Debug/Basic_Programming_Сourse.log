@@ -1,0 +1,11 @@
+﻿  Basic_Programming_Сourse.cpp
+C:\ProgerDev@iLL\C++\Project at C++\Basic_Programming_Сourse\Basic_Programming_Сourse\Basic_Programming_Сourse.cpp(142,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\ProgerDev@iLL\C++\Project at C++\Basic_Programming_Сourse\Basic_Programming_Сourse\Basic_Programming_Сourse.cpp(149,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\ProgerDev@iLL\C++\Project at C++\Basic_Programming_Сourse\Basic_Programming_Сourse\Basic_Programming_Сourse.cpp(456,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\ProgerDev@iLL\C++\Project at C++\Basic_Programming_Сourse\Basic_Programming_Сourse\Basic_Programming_Сourse.cpp(465,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\ProgerDev@iLL\C++\Project at C++\Basic_Programming_Сourse\Basic_Programming_Сourse\Basic_Programming_Сourse.cpp(496,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\ProgerDev@iLL\C++\Project at C++\Basic_Programming_Сourse\Basic_Programming_Сourse\Basic_Programming_Сourse.cpp(505,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\ProgerDev@iLL\C++\Project at C++\Basic_Programming_Сourse\Basic_Programming_Сourse\Basic_Programming_Сourse.cpp(533,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\ProgerDev@iLL\C++\Project at C++\Basic_Programming_Сourse\Basic_Programming_Сourse\Basic_Programming_Сourse.cpp(542,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\ProgerDev@iLL\C++\Project at C++\Basic_Programming_Сourse\Basic_Programming_Сourse\Basic_Programming_Сourse.cpp(82): warning C4715: numbersamecheck: значение возвращается не при всех путях выполнения
+  Basic_Programming_Сourse.vcxproj -> C:\ProgerDev@iLL\C++\Project at C++\Basic_Programming_Сourse\Debug\Basic_Programming_Сourse.exe
